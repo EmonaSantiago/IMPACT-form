@@ -1,4 +1,8 @@
-/* * {
+
+<slot></slot>
+
+<style>
+    * {
     margin: 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -16,4 +20,6 @@ body {
     background-size: cover;
     position: relative;
 }
- */
+
+
+</style>
