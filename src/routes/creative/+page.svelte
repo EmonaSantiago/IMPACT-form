@@ -7,7 +7,7 @@
       <body>
         <h1>IMPACT</h1>
         <div class="container">
-            <form action="https://formspree.io/f/xrgnqojg" method="POST">
+            <form action="https://formspree.io/f/mgegkpdq" method="POST">
 <!-- 
 
               <div class="row">
