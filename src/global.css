@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url("/Users/emonasantiago/Documents/IMPACT-form/src/assets/darkimg.png");
+    background-image: url("darkimg.png");
     margin: 1em;
     height: 1000px;
     background-position: center;
@@ -16,4 +16,4 @@ body {
     background-size: cover;
     position: relative;
 }
- */
+
